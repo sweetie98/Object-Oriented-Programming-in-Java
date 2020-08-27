@@ -25,8 +25,8 @@ import parsing.ParseFeed;
 /** EarthquakeCityMap
  * An application with an interactive map displaying earthquake data.
  * Author: UC San Diego Intermediate Software Development MOOC team
- * @author Xiaomei Wang
- * Date: July 17, 2015
+ * @author sweetie98
+ * Date: July 29, 2020
  * */
 public class EarthquakeCityMap extends PApplet {
 
